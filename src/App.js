@@ -12,7 +12,7 @@ export default function App() {
       <Router>
         <NavMenu />
         <Switch>
-          <Route path="/Portfolio_dev/" exact>
+          <Route path="/Portfolio_dev" exact>
             <Home />
           </Route>
           <Route path="/Portfolio_dev/about">
