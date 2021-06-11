@@ -63,7 +63,7 @@ export default function ProjectSection() {
         <div className="projects__allItems">
           <Swiper
             spaceBetween={30}
-            slidesPerView={1}
+            slidesPerView={2}
             navigation
             breakpoints={{
               640: {
